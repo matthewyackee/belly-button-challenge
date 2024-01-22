@@ -1,6 +1,6 @@
 # belly-button-challenge
 UofD Data Analysis Bootcamp Module 14 Challenge
 
-The primary files are: xxx, xxx, and a Resources directory. The Resources directory contains the xxx file that has been modified by xxx and is used by xxx.
+The primary files are: <index.html>, <samples.json>, and a <static> directory. The <static> directory contains a <js> directory that contains the app.js file.
 
 I used the format provided by the Starter-Code files provided.
